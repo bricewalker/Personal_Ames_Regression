@@ -1,4 +1,4 @@
-# ameshousing
+# Real Estate Price Predictions and Regression Analysis
 
 This is a regression project completed on the Ames Housing Dataset discussed here at:
     https://ww2.amstat.org/publications/jse/v19n3/decock.pdf
